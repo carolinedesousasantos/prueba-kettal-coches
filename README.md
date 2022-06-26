@@ -1,25 +1,25 @@
 # prueba-kettal-coches
 
+
+## To see frontend repository
+https://github.com/carolinedesousasantos/prueba-coches-front.git
+
+
+
+## To see backend repository
+https://github.com/carolinedesousasantos/prueba-coches-back.git
+
+
 # Prerequires
 
 ## Docker 
 https://docs.docker.com/
 
-## Frontend repository
-
-https://github.com/carolinedesousasantos/prueba-coches-front.git
-
-
-
-## Backend repository
-
-https://github.com/carolinedesousasantos/prueba-coches-back.git
-
-
 
 # How to run
+
 ```
-docker-compose up
+docker-compose up -d
 ```
 
 
