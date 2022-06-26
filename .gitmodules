@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/carolinedesousasantos/prueba-coches-back.git
+[submodule "front"]
+	path = front
+	url = https://github.com/carolinedesousasantos/prueba-coches-front.git

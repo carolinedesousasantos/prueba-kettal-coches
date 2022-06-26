@@ -1,0 +1,12 @@
+version: "3"
+services:
+  front:
+    build: front
+    ports:
+      - "9402:8080"
+    environment:
+      - BACKENDHOST=http://back:8080
+  back:
+    build: back
+    ports:
+      - "8080:8080"
