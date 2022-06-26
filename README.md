@@ -22,6 +22,11 @@ https://docs.docker.com/
 docker-compose up -d
 ```
 
+# How to stop
+
+```
+docker-compose down
+```
 
 # Open on browser
 
