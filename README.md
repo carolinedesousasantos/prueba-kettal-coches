@@ -1,13 +1,10 @@
 # prueba-kettal-coches
 
 
-## To see frontend repository
-https://github.com/carolinedesousasantos/prueba-coches-front.git
+## Repositories
+[front](https://github.com/carolinedesousasantos/prueba-coches-front.git) and
+[back](https://github.com/carolinedesousasantos/prueba-coches-back.git)
 
-
-
-## To see backend repository
-https://github.com/carolinedesousasantos/prueba-coches-back.git
 
 
 # Prerequires
@@ -22,12 +19,14 @@ https://docs.docker.com/
 docker-compose up -d
 ```
 
+
+# Open on browser
+
+http://localhost:9402
+
+
 # How to stop
 
 ```
 docker-compose down
 ```
-
-# Open on browser
-
-http://localhost:9402
